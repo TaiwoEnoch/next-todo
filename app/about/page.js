@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <>
-      <section className='bg-[#aedbee] py-32'>
+      <section className='bg-[#e6ecee] py-32'>
         <div className='flex flex-col w-[50%] max-md:w-[90%] gap-4 justify-center mx-auto'>
           <h1 className='text-center font-semibold text-3xl pb-2'>
             To-Do App Overview

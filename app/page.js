@@ -79,7 +79,7 @@ export default function Home() {
 
   return (
     <>
-      <div className='bg-[#aedbee] pb-16 h-[100%]'>
+      <div className='bg-[#e6ecee] pb-16 h-[100%]'>
         <h1 className='text-center pt-32 pb-10 mb-8 font-extrabold font-2xl'>TODO APP</h1>
         <ToastContainer theme="dark"/>
         <form className="flex items-start flex-col gap-2 w-[80%] max-w-[600px] px-2 mx-auto">

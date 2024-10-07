@@ -17,7 +17,7 @@ const buttonVariants = {
 const Page = () => {
   return (
     <>
-      <section className="bg-[#aedbee]">
+      <section className="bg-[#e6ecee]">
         <div className="max-w-2xl mx-auto py-32">
           <h1 className="text-2xl font-semibold mb-4">Contact Me</h1>
 
